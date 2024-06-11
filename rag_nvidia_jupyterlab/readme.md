@@ -21,8 +21,9 @@ if major_version >= 8:
 else:
     # Use this for older GPUs (V100, Tesla T4, RTX 20xx)
     !pip install --no-deps xformers trl peft accelerate bitsandbytes
+```
 
-Running the Application
+## Running the Application
 
 -Ensure your environment is set up and dependencies are installed.
 -Load the environment variables for your Nvidia API key.
