@@ -13,7 +13,7 @@ Ensure you have the necessary dependencies installed:
 !pip install langchain-community langchain-text-splitters faiss-cpu
 !pip install openai
 
-
+```
 
 
 # Document Question-Answering with Nvidia NIM and Gradio
@@ -31,8 +31,7 @@ Ensure you have the necessary dependencies installed:
 !pip install langchain-community langchain-text-splitters faiss-cpu
 !pip install gradio
 !pip install python-dotenv
-
-
+```
 
 These two projects demonstrate how to use Nvidia NIM with LangChain and Gradio to build advanced question-answering systems based on document context. Feel free to explore and modify the setup to suit your needs.
 
