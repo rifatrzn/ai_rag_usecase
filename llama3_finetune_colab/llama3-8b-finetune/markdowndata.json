@@ -1,0 +1,154 @@
+[
+    {
+        "context": "Managing patient flow is vital to the effectiveness of any practice. The system provides fast and easily-navigated functionality for searching current charts and documents, as well as for registering new patients. The system allows users to register individuals directly into the EHR by simply adding their demographic and insurance information into the system. Depending on the established processes, registration documents can be provided either before the appointment or during the check-in process, and a patient registrar can then review the submitted documentation, as needed. The system automatically detects potential duplicate records and allows merging by authorized users. Custom configuration of demographic fields and integration with outside vendors is available as an add-on service, if necessary.",
+        "question": "What functionalities does the system provide for managing patient flow?",
+        "answer": "The system provides functionalities for searching current charts and documents, registering new patients, and managing patient registration by adding demographic and insurance information."
+    },
+    {
+        "context": "Managing patient flow is vital to the effectiveness of any practice. The system provides fast and easily-navigated functionality for searching current charts and documents, as well as for registering new patients. The system allows users to register individuals directly into the EHR by simply adding their demographic and insurance information into the system. Depending on the established processes, registration documents can be provided either before the appointment or during the check-in process, and a patient registrar can then review the submitted documentation, as needed. The system automatically detects potential duplicate records and allows merging by authorized users. Custom configuration of demographic fields and integration with outside vendors is available as an add-on service, if necessary.",
+        "question": "How does the system handle potential duplicate patient records?",
+        "answer": "The system automatically detects potential duplicate records and allows merging by authorized users."
+    },
+    {
+        "context": "Document Management is an essential component of the system. It supports both web-based remote scanning and high-speed scanning for items such as insurance cards or entire charts. WebScan allows front desk staff to scan information directly into a patient's record, at the point of encounter, and is designed to automatically index the scanned document using barcode technology.",
+        "question": "What functionalities does the document management system provide?",
+        "answer": "The document management system provides functionalities like web-based remote scanning, high-speed scanning for various items, and automatic indexing of scanned documents using barcode technology."
+    },
+    {
+        "context": "With our document management solutions, clients will experience the conveniences of easy chart access, anywhere, anytime, as well as hassle-free interoperability and integrated workflows, intended to streamline operations and communication. It supports both web-based remote scanning and high-speed scanning for items such as insurance cards or entire charts.",
+        "question": "How does the document management system improve client experience?",
+        "answer": "The system improves client experience by providing easy chart access anywhere and anytime, supporting high-speed and web-based remote scanning, and ensuring hassle-free interoperability and integrated workflows to streamline operations and communication."
+    },
+    {
+        "context": "Users can not only print individual documents, but they can also print groups of documents, or definitions. Print definitions provide ways to group many documents, forms, layouts, or the like into a defined print or fax job. These jobs can also be sent as a secure email, or even created as a batch, so that the print definition(s) can be printed or faxed, at a later time.",
+        "question": "What are the capabilities of the printing and print definitions feature?",
+        "answer": "The printing and print definitions feature allows users to print individual documents or groups of documents, create defined print or fax jobs, send these jobs as secure emails, or create them as batches to be processed later."
+    },
+    {
+        "context": "The ability to access diagnostic radiological images from anywhere has become an absolute necessity. Teleradiology has expanded the virtual workplace into remote locations such as the physician's home, or even vacation locations. The system allows clinicians easy access to view and manipulate DICOM images within the web browser, from anywhere, without the need to install a client application.",
+        "question": "How does the system facilitate the access and manipulation of diagnostic radiological images?",
+        "answer": "The system facilitates the access and manipulation of diagnostic radiological images through teleradiology, allowing clinicians to view and manipulate DICOM images from anywhere using a web browser without the need for installing any client application."
+    },
+    {
+        "context": "The electronic chart, or E-Chart, is an essential component of the system. It allows for a single, integrated view of all scanned and electronic documents, as well as all recorded data. Users can register new charts, update existing charts, and manage individual records using the E-Chart module.",
+        "question": "What capabilities does the E-Chart module offer?",
+        "answer": "The E-Chart module allows users to register new charts, update existing charts, and manage individual records, providing a single, integrated view of all scanned and electronic documents, as well as all recorded data."
+    },
+    {
+        "context": "The system offers the ability for electronic signature, or an e-sign option, designed to improve workflow efficiency. E-signatures can be requested manually, with notes and comments, or automatically, using e-sign routing rules. The built-in alerts and notifications allow users to review e-sign requests and queues, completed correspondences, transcription reports, lab and test results, and hospital documents. The E-Sign module also allows for adding documents, tasks, and dictations, as well as requesting co-signers, or multiple signatures, as needed.",
+        "question": "What functionalities does the E-Sign module provide?",
+        "answer": "The E-Sign module provides functionalities for requesting electronic signatures manually or automatically, reviewing e-sign requests and queues, managing completed correspondences, transcription reports, lab and test results, and hospital documents. It also supports adding documents, tasks, and dictations, as well as requesting co-signers or multiple signatures."
+    },
+    {
+        "context": "The system creates customized, programmable encounter forms, with important demographic and clinical data presenting to the clinician at the point-of-care, facilitating more comprehensive encounter documentation. With the Dynamic Encounter, data is easily captured at the time of the visit, allowing clinical staff and providers to streamline all necessary clinic operations.",
+        "question": "What are the benefits of the Dynamic Encounter feature in the system?",
+        "answer": "The Dynamic Encounter feature facilitates more comprehensive encounter documentation by presenting important demographic and clinical data at the point-of-care, and streamlines clinic operations by easily capturing data at the time of the visit."
+    },
+    {
+        "context": "The system has added telehealth capabilities, including audio and video, that make it easy for clinicians and patients to conduct a virtual visit. Patients can join a video visit from a portal branded to the clinic or practice from a computer or mobile device. Clinicians can initiate or join a telehealth visit from the application and document the visit as it occurs.",
+        "question": "How does the system support telehealth?",
+        "answer": "The system supports telehealth through its audio and video capabilities, allowing patients to join video visits from a clinic-branded portal and clinicians to initiate or join these visits and document them directly within the application."
+    },
+    {
+        "context": "The system has seamlessly integrated dictation into the workflow to provide the clinician a variety of input methods. It is important for the daily workflow of the physician to have a streamlined process to have those dictation files converted to text, which is supported by a robust transcription module.",
+        "question": "What does the system offer in terms of dictation and transcription?",
+        "answer": "The system integrates dictation seamlessly into the workflow, offering various input methods and a robust transcription module that converts dictation files into text, streamlining the physician's daily workflow."
+    },
+    {
+        "context": "The system can be used for treating, documenting, managing, and reporting injuries and illnesses, which can be initiated from a visit to the clinic or in advance, via an employee portal. This allows incidents to be reported anytime, day or night. The system compiles the recorded data into form overlays, minimizing the need for redundant data entry, while also easing reporting burdens.",
+        "question": "How does the system handle injury care and reporting?",
+        "answer": "The system facilitates the treatment, documentation, management, and reporting of injuries and illnesses, allows incident reporting anytime through an employee portal, and compiles data into form overlays to minimize redundant data entry and ease reporting burdens."
+    },
+    {
+        "context": "The system offers various work-related encounters, which help with managing applicants and pre-placements, as well as examining and documenting fitness, wellness, and certification.",
+        "question": "What functionalities does the system provide for work-related exams?",
+        "answer": "The system offers functionalities for managing applicants and pre-placement processes, as well as examining and documenting fitness, wellness, and certification, thus supporting various work-related encounters."
+    },
+    {
+        "context": "With the Health Surveillance module, users can easily track and manage overall health for risk groups and patient populations. Required tests for audiometry, pulmonary function, vision, respirator fit, and other surveillance exams do not rely on manual tracking and human intervention. Electronic toolsets drive the process to significantly decrease risk of compliance failure.",
+        "question": "What does the Health Surveillance module in the system enable?",
+        "answer": "The Health Surveillance module enables users to track and manage overall health for risk groups and patient populations without relying on manual tracking, utilizing electronic toolsets that decrease the risk of compliance failure."
+    },
+    {
+        "context": "The Injection/Immunization module in the system is designed to help clinicians enter and track immunizations and therapeutic or allergy injections, facilitating clinical decisions and follow-ups.",
+        "question": "What is the purpose of the Injection/Immunization module in the system?",
+        "answer": "The Injection/Immunization module helps clinicians enter and track immunizations and therapeutic or allergy injections, facilitating clinical decisions and follow-ups."
+    },
+    {
+        "context": "The system can be used for treating, documenting, managing, and reporting injuries and illnesses, which can be initiated from a visit to the clinic, or in advance, via an employee portal. This allows incidents to be reported anytime, day or night. And regardless of how the information is captured, the system can compile the recorded data into form overlays, minimizing the need for redundant data entry, while also easing reporting burdens. Overall, the system not only incorporates streamlined processes for recording and treating injuries and illnesses, it also provides tools for easy tracking and follow-up through the use of its integrated worklists and tasking module.",
+        "question": "How does the system handle the management of injuries and illnesses?",
+        "answer": "The system allows for the treatment, documentation, management, and reporting of injuries and illnesses that can be initiated in the clinic or in advance via an employee portal. It also provides tools for easy tracking and follow-up."
+    },
+    {
+        "context": "In addition to the ongoing assessment, planning, and evaluation of incidents, implementing preventive systems and appropriating all necessary resources are key factors of successful case management. Ensuring the worker a timely and cost effective return to work has never been easier, thanks to the system platform incorporating design and functionality intended to streamline these processes and provide workers the quality care they deserve.",
+        "question": "What are the key factors of successful case management in the system?",
+        "answer": "Successful case management in the system involves ongoing assessment, planning, evaluation of incidents, implementing preventive systems, and appropriating necessary resources to ensure a timely and cost-effective return to work for workers."
+    },
+    {
+        "context": "The system provides all the tools necessary for customizing, delivering, resulting, and tracking orders electronically. The system not only allows for order faxing and printing, but can also be configured to submit lab orders, track order statuses, and receive results, all electronically.",
+        "question": "What functionalities does the system provide for order management?",
+        "answer": "The system provides tools for customizing, delivering, resulting, and tracking orders electronically. It allows for order faxing and printing, submitting lab orders, tracking order statuses, and receiving results electronically."
+    },
+    {
+        "context": "The system provides a sophisticated yet easy-to-use medication management and electronic prescription capability. The Medication Management & E-Prescribing module streamlines the prescribing and refill process, allowing users to e-prescribe using the fewest possible steps, all while improving overall accuracy and reducing the opportunities for medication errors and adverse drug reactions.",
+        "question": "What are the benefits of the Medication Management & E-Prescribing module?",
+        "answer": "The Medication Management & E-Prescribing module streamlines the prescribing and refill process, improves overall accuracy, and reduces opportunities for medication errors and adverse drug reactions."
+    },
+    {
+        "context": "With a variety of online portal options, {{% system-name %}} offers patients and clinicians the ability to quickly and easily send correspondences, request/cancel appointments, review results and clinical documentation, and so much more. The {{% system-name %}} system emphasizes engagement and tracking, offering easy access to individual due lists, work status, and health surveillance via its certified portal options. Users can schedule appointments, provide information, and complete questionnaires, easily maintaining overall wellness and work certifications. Check out all the details for each of the portal options, below.\n\nPatient Portal\n\nWith the Patient Portal, sometimes used and referred to as an Employee Portal, allows patients and clinicians, as well as employees and occupational health specialists, to communicate freely, anytime. Patients or employees can quickly and easily add/update their personal health records, review medical information, schedule/cancel appointments, and so much more!\n\nEmployer Portal\n\nThe Employer Portal, often referred to as the Supervisor Portal, Agency Portal, or Leadership Portal, streamlines employee engagement and tracking, offering easy access to due lists, employee work status, and health surveillance. Supervisors can not only view their personal information, but they can also view their employees' restrictions, lost time, work status, or any additional information custom to the business needs.\n\nNoMoreClipboard\n\nNoMoreClipboard is a patient-owned interoperable personal health record (PHR) that shares data with  {{% system-name %}}  and can be established as a branded patient portal.\n\nApplicant Portal\n\nThe Applicant Portal is a web-based platform intended to screen new employees and streamline hiring processes. With it, employers have the ability to simplify the onboarding process and ensure all pre-employment needs are addressed early and accurately.\n\nProvider Portal\n\nThe Provider Portal allows physicians to easily access orders, check statuses, and upload results.\n\nKiosk\n\nThe Kiosk is a portal integration designed with limited functionality and immediate logout for streamlining things such as check-in and intake processes, among others.",
+        "question": "What are the different portal options offered by the system?",
+        "answer": "The system offers various portal options including the Patient Portal, Employer Portal, NoMoreClipboard, Applicant Portal, Provider Portal, and Kiosk. Each portal provides specific functionalities to cater to patients, employers, providers, and applicants, facilitating communication, engagement, tracking, and streamlining various processes."
+    },
+    {
+        "context": "{{% system-name %}} prides itself on being a certified EHR technology, and as such, we offer an extensive array of certified measures, designed for participation in various tracking and incentive programs available, today. These measures have been developed to help with understanding and excelling at tracking and providing quality care data. Learn how to enroll here!\n\nSee All Measures\nJust the Basics\n\nCMS Programs\nParticipants can utilize the  {{% system-name %}} system to track and report on the various health IT and healthcare standards, as laid out by the Centers for Medicare and Medicaid Services (CMS) and the Office of the National Coordinator for Heath Information Technology (ONC).\n\nNon-CMS Programs\n\nThe {{% system-name %}} system also caters to those practices interested in pursuing measurement of the clinical quality performance of health plans, under programs like HEDIS, or any of the various other programs and accreditations/certifications offered by the NCQA and similar organizations.",
+        "question": "What certified measures and programs does the system support?",
+        "answer": "The system supports an extensive array of certified measures designed for participation in various tracking and incentive programs. It helps with tracking and providing quality care data for CMS programs, including standards set by the Centers for Medicare and Medicaid Services (CMS) and the Office of the National Coordinator for Health Information Technology (ONC). Additionally, the system supports non-CMS programs like HEDIS and various other programs and certifications offered by NCQA and similar organizations."
+    },
+    {
+        "context": "The {{% system-name %}} appointment and schedule management module features a customizable, robust Scheduler that makes it easy to set up and organize multiple physicians, locations, and resources. The appointment calendar features an easy-to-use appointment wizard, intuitive interface, color coding option, and multiple views including daily and weekly views. The scheduling module allows users to check in patients, print charts, enter vitals, and add dictation through the scheduling screen.",
+        "question": "What features does the appointment and schedule management module provide?",
+        "answer": "The appointment and schedule management module provides a customizable, robust Scheduler for organizing multiple physicians, locations, and resources. It includes an easy-to-use appointment wizard, intuitive interface, color coding option, and multiple views such as daily and weekly views. The module also allows users to check in patients, print charts, enter vitals, and add dictation through the scheduling screen."
+    },
+    {
+        "context": "The System Administration module is designed to help practices control and monitor what happens behind the scenes of their EHR. With it comes essential tools for managing and overseeing user access, system setup, and general operations of the {{% system-name %}} system.",
+        "question": "What is the purpose of the System Administration module?",
+        "answer": "The System Administration module helps practices control and monitor their EHR system by providing essential tools for managing and overseeing user access, system setup, and general operations."
+    },
+    {
+        "context": "System Controls: System administrators can control access to the various components of the system, as well as user abilities, such as adding/modifying data, prescribing medications, or documenting exams, for example.",
+        "question": "What can system administrators control with System Controls?",
+        "answer": "System administrators can control access to various system components and user abilities, such as adding/modifying data, prescribing medications, and documenting exams."
+    },
+    {
+        "context": "Data Migration: Data migration is a process used for a variety of things, such as application migration, equipment replacement, system upgrades, or maintenance, just to name a few. The following resources have been designed to assist users in understanding the appropriate workflows for the available data migration functionalities within the {{% system-name %}} system.",
+        "question": "What purposes does data migration serve in the system?",
+        "answer": "Data migration is used for application migration, equipment replacement, system upgrades, maintenance, and other purposes, with resources provided to assist users in understanding appropriate workflows."
+    },
+    {
+        "context": "Interfaces: We at {{% system-name %}} understand the importance of being connected and integrated. That's why we focus on interoperability. With the {{% system-name %}} system, interfacing with a device, a practice management system, or even a custom HL7 interface, is not a big deal. Check out our interface documentation to see how to use yours, today.",
+        "question": "What is the focus of the system's Interfaces feature?",
+        "answer": "The system's Interfaces feature focuses on interoperability, allowing easy interfacing with devices, practice management systems, or custom HL7 interfaces."
+    },
+    {
+        "context": "Security: Today, security is an important part of every type of integrated software. Here, users can review the available security documentation, and system administrators can set up and configure security roles, settings, and login standards, as appropriate.",
+        "question": "What can system administrators do with the Security feature?",
+        "answer": "System administrators can set up and configure security roles, settings, and login standards, and users can review available security documentation."
+    },
+    {
+        "context": "Asset Management: The Asset Management module tracks equipment assigned to users, including warranty information, maintenance requests, and calibration requirements. The module creates and tracks work orders and calibration requests, and automates notifications for calibration, service agreements, warranties, insurance policies, and the like.",
+        "question": "What functionalities does the Asset Management module provide?",
+        "answer": "The Asset Management module tracks equipment assigned to users, including warranty information, maintenance requests, and calibration requirements. It creates and tracks work orders and calibration requests, and automates notifications for calibration, service agreements, warranties, and insurance policies."
+    },
+    {
+        "context": "System configurations are any necessary arrangements or modifications for automated scheduled jobs, business rules (e.g., triggers for email notifications of appointment reminders, immunization reminders, surveillance appointments, etc.), as well as for the standard, out-of-the-box features and functionality. Examples include, but are not limited to, clinical decision support, or scripted rules, standard email templates, questionnaires, office visit templates/encounters, and Word templates. All billable, or additional configuration requests, will be scoped, quoted, and reviewed with the client for authorization, prior to completion.",
+        "question": "What are system configurations in the system?",
+        "answer": "System configurations include necessary arrangements or modifications for automated scheduled jobs, business rules, clinical decision support, standard email templates, questionnaires, office visit templates/encounters, and Word templates. Billable or additional configuration requests are scoped, quoted, and reviewed with the client for authorization prior to completion."
+    },
+    {
+        "context": "The {{% system-name %}} Tasking module streamlines everyday tasks into an electronic to-do list, and provides a single, structured point of access to routine work activities. The module allows clinicians to review lab results, authorize prescriptions and orders, and e-sign encounters or dictation.",
+        "question": "What functionalities does the Tasking module provide?",
+        "answer": "The Tasking module streamlines everyday tasks into an electronic to-do list and provides a single, structured point of access to routine work activities. It allows clinicians to review lab results, authorize prescriptions and orders, and e-sign encounters or dictation."
+    }
+    
+    
+]
