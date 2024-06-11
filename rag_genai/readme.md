@@ -1,4 +1,4 @@
-# Nvidia NIM Demo with LangChain and Gradio
+# Nvidia NIM Demo with LangChain and Gradio in Jupyter Lab
 
 ## Overview
 
@@ -21,3 +21,13 @@ if major_version >= 8:
 else:
     # Use this for older GPUs (V100, Tesla T4, RTX 20xx)
     !pip install --no-deps xformers trl peft accelerate bitsandbytes
+
+Running the Application
+
+-Ensure your environment is set up and dependencies are installed.
+-Load the environment variables for your Nvidia API key.
+-Run the document ingestion and vector store creation script.
+-Use the Gradio interface to embed documents and ask questions.
+
+
+This project showcases the powerful integration of Nvidia NIM, LangChain, and Gradio to create an interactive document question-answering system in local environment with jupyter lab. Feel free to explore and modify the setup to suit your needs.
