@@ -1,8 +1,8 @@
-# Fine-Tuning LLaMA-3 Model with Groq and LangChain
+# Fine-Tuning LLaMA-3 Model with LoRA using Unsoth
 
 ## Overview
 
-This project demonstrates fine-tuning the LLaMA-3 model using Groq and LangChain. The goal is to enable advanced functionalities such as query routing and function calling with a focus on efficient memory usage and performance optimization.
+This project demonstrates the fine-tuning of the LLaMA-3 model using Low-Rank Adaptation (LoRA) techniques with the `unsloth` library. The goal is to leverage efficient memory usage and enhance model performance using 4-bit quantization and advanced training configurations.
 
 ## Installation
 
@@ -21,3 +21,7 @@ if major_version >= 8:
 else:
     # Use this for older GPUs (V100, Tesla T4, RTX 20xx)
     !pip install --no-deps xformers trl peft accelerate bitsandbytes
+
+```
+
+This project showcases the powerful integration of unsloth, LoRA, and the LLaMA-3 model to create an efficient and high-performing language model. Feel free to explore and modify the setup to suit your needs.
